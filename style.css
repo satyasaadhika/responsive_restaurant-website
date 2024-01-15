@@ -97,7 +97,7 @@ fieldset{
     padding: 1%;
     font-weight: bold;
 }
-/* CSS for Food SEarch Section */
+/* CSS for Food Search Section */
 
 .food-search{
     background-image: url(../images/bg.jpg);
@@ -113,4 +113,15 @@ fieldset{
     font-size: 1rem;
     border: none;
     border-radius: 5px;
+}
+
+/* CSS for Categories */
+.categories{
+    padding: 4% 0;
+}
+
+.box-3{
+    width: 28%;
+    float: left;
+    margin: 2%;
 }
